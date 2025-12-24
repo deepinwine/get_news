@@ -24,7 +24,7 @@ driver = webdriver.Chrome(
 )
 
 # ------------------ 搜索页面 URL ------------------
-start_url = "https://www.ifnews.com/searchColumn.html?search=%25E6%259D%258E%25E6%2598%25AD%25E9%25A2%2596"
+start_url = "https://www.ifnews.com/searchColumn.html?search=XXXXXXX"
 driver.get(start_url)
 time.sleep(3)  # 等待页面加载
 
